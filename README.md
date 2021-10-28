@@ -16,4 +16,6 @@ A Retirement Title table was created with the number of retiring employees by th
 
 ![image](https://user-images.githubusercontent.com/88119288/139158597-01e7e40a-e85b-40e7-bc02-e4a1ff5438ac.png)
 
+# Summary
 A Retirement Title table was created with the number of retiring employees by their title. There are 90,398 employees eligible for retirement whose roles need to be filled; from those there are 29,415 employees who are senior engineers. From the retiring population there are 1549 senior employees that are candidates for the mentorship eligibility program which is not enough to cover the loss of those going into retirement
+Pewlett-Hackard is unprepared for the "silver tsunami." There are over 90,398 employees at retirement age and 1549 senior employees eligible for the mentorship program. There are not enough mentors to start the process. It is recommended that the company changes their criteria in regards to the mentors and being able to expand from those currently eligible; they may be able to look externally. Incentives can be given to convince senior staff to stay long enought to mentor the incoming staff. 
